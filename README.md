@@ -1,2 +1,2 @@
 # eCommerceNode
-eCommerce project written in node.js
+First project using node js. Simple e-commerce website with minimal styling 
